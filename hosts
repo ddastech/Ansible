@@ -1,0 +1,11 @@
+[local]
+192.168.94.131
+
+#[Centsos]
+#ldap.example.com
+
+#[amazon]
+#ec2-34-201-18-192.compute-1.amazonaws.com
+#[Ubuntu]
+192.168.94.132
+
